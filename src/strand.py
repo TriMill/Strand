@@ -1,8 +1,12 @@
 import random
 
-if __name__ == '__main__':
+def main():
     print('Strand (C) 2019 CC BY-SA 4.0')
     print('https://github.com/TriMill/Strand')
+    inp = input('> ')
+    while inp != '':
+        print(parse(inp))
+        inp = input('> ')
 
 def parse(s):
     if '[' not in s:
@@ -41,3 +45,6 @@ def choose(s):
             depth -= 1
         choices[-1] += char
     return parse(random.choice(choices))
+
+if __name__ == '__main__':
+    main()
