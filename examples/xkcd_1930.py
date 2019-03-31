@@ -16,7 +16,7 @@ the [harvest|super|blood] moon|\
 Toyota Truck Month|\
 Shark Week] \
 [happens [earlier|later|at the wrong time] every year|\
-drifts out of sync with the [sun|moon|zodiac|[Gregorian|Mayan|lunar|iPhone]\
+drifts out of sync with the [sun|moon|zodiac|[Gregorian|Mayan|lunar|iPhone] \
 calendar|atomic clock in Colorado]|\
 might [not happen|happen twice] this year] \
 because of [time zone legislation in [Indiana|Arizona|Russia]|\
